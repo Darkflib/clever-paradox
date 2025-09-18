@@ -14,7 +14,15 @@ ADJECTIVES = [
     "Phantom", "Polished", "Prime", "Quiet", "Radiant", "Rapid", "Rare", "Ravenous", "Resolute",
     "Scarlet", "Secret", "Shattered", "Silent", "Silver", "Solitary", "Stark", "Steadfast",
     "Stolen", "Strange", "Subtle", "Tenebrous", "Tenacious", "Verdant", "Vigilant", "Violet",
-    "Wandering", "Withered", "Wry"
+    "Wandering", "Withered", "Wry", "Azure", "Beguiling", "Burnished", "Cascading", "Chromatic",
+    "Crystalline", "Cursed", "Dazzling", "Divine", "Dormant", "Draconic", "Dreaming", "Ebony",
+    "Echoing", "Elusive", "Ephemeral", "Eternal", "Exalted", "Exotic", "Fervent", "Fluid",
+    "Forgotten", "Furtive", "Glimmering", "Graceful", "Granite", "Hallowed", "Haunting", "Incandescent",
+    "Infinite", "Ivory", "Jade", "Legendary", "Lustrous", "Majestic", "Marble", "Mystic", "Nebulous",
+    "Noble", "Onyx", "Opalescent", "Pensive", "Pristine", "Quicksilver", "Raging", "Restless",
+    "Runic", "Sacred", "Sapphire", "Seething", "Serene", "Shadowed", "Shimmering", "Spectral",
+    "Stellar", "Stoic", "Sublime", "Tranquil", "Trembling", "Turbulent", "Twilight", "Untamed",
+    "Vivid", "Woven", "Zealous"
 ]
 
 NOUNS = [
@@ -28,7 +36,17 @@ NOUNS = [
     "Palisade", "Paradox", "Path", "Pattern", "Peak", "Prism", "Pulse", "Pyre", "Quanta", "Quorum",
     "Realm", "Reliquary", "Reservoir", "Rift", "Runestone", "Sanctuary", "Scribe", "Sentinel",
     "Shard", "Signal", "Spark", "Spectrum", "Spiral", "Spire", "Storm", "Summit", "Tesseract",
-    "Threshold", "Titan", "Tome", "Tower", "Trace", "Vector", "Vault", "Veil", "Vortex", "Whisper"
+    "Threshold", "Titan", "Tome", "Tower", "Trace", "Vector", "Vault", "Veil", "Vortex", "Whisper",
+    "Abyss", "Anchor", "Artifact", "Cascade", "Catalyst", "Cathedral", "Chronicle", "Compass",
+    "Constellation", "Crystal", "Dimension", "Dynasty", "Enclave", "Engine", "Equilibrium", "Forge",
+    "Fragment", "Gallery", "Guardian", "Helix", "Laboratory", "Lighthouse", "Mechanism", "Mirror",
+    "Observatory", "Oracle", "Pavilion", "Phoenix", "Portal", "Protocol", "Quantum", "Reactor",
+    "Resonance", "Sanctuary", "Scholar", "Seraph", "Synthesis", "Temple", "Timeline", "Torch",
+    "Trajectory", "Transmitter", "Triangle", "Unity", "Vertex", "Wanderer", "Workshop", "Zenith",
+    "Academy", "Amphitheater", "Cabinet", "Catalyst", "Chamber", "Convergence", "Crown", "Decoder",
+    "Delta", "Diaspora", "Enigma", "Fortress", "Galaxy", "Heritage", "Infinity", "Junction",
+    "Kingdom", "Library", "Monument", "Network", "Oasis", "Paradigm", "Quadrant", "Relic",
+    "Sphere", "Tapestry", "Universe", "Voyage", "Wavelength", "Xenon", "Yearbook", "Zodiac"
 ]
 
 def generate_name():
